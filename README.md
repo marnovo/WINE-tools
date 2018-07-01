@@ -13,7 +13,7 @@ What is [WINE](http://winehq.org/)? In short, "**W**INE **I**s **N**ot an **E**m
 
 What is [Wineskin](https://sourceforge.net/projects/wineskin/)? In short, it is a standalone WINE wrapper.
 
-### Wineskin Winery
+#### Wineskin Winery
 
 What is [Wineskin Winery](http://wineskin.urgesoftware.com/tiki-index.php)? In short, it is a Wineskin (standalone WINE wrapper) generator.
 
@@ -49,4 +49,4 @@ This is also a faster method to build 32bit Vanilla or Staging engines.
 10. Type `tar cf - wswine.bundle | ~/Library/Application\ Support/Wineskin/7za a -si NAMEOFYOURENGINE.tar.7z` (Replace `NAMEOFYOURENGINE` with the name inside of the version file)
 11. Move the newly created `.tar.7z` file inside `~/Library/Application Support/Wineskin/Engines`
 
-Credits to [Brainzyy from PorkingKit](http://portingkit.com/smf/index.php?topic=290.0)
+Credits to [Brainzyy from PortingKit](http://portingkit.com/smf/index.php?topic=290.0)
