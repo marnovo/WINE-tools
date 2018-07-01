@@ -17,6 +17,9 @@ What is [Wineskin](https://sourceforge.net/projects/wineskin/)? In short, it is 
 
 What is [Wineskin Winery](http://wineskin.urgesoftware.com/tiki-index.php)? In short, it is a Wineskin (standalone WINE wrapper) generator.
 
+_P.s.: keep in mind the original branch of the project development has been very infrequently updated._
+_A recent fork with more active development can be found at [vitor251093/wineskin](https://github.com/vitor251093/wineskin)._
+
 ### Other options
 
 PortingKit, WineBottler, GameOnMac, CrossOver, and eventually others.
