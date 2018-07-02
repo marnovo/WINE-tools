@@ -44,7 +44,7 @@ This is also a faster method to build 32bit Vanilla or Staging engines.
 5. Type `touch version` to create an empty file without extension called `version`
 6. Type `nano version`to open the nano text editor.
 7. Type in the open file the name that you want to call your engine (example: `WS9Wine64bitStaging2.10-3`), save the file (Ctrl+O) and quit nano (Ctrl+X)
-8. Put this file inside the `usr` folder that was created by extracting from the tarball previously
+8. Type `mv version usr/version` to put the file inside the `usr` folder that was previously created
 9. Type `mv usr/ wswine.bundle` to rename the `usr` folder as a `wswine.bundle` "file"
 10. Type `tar cf - wswine.bundle | ~/Library/Application\ Support/Wineskin/7za a -si NAMEOFYOURENGINE.tar.7z` (Replace `NAMEOFYOURENGINE` with the name inside of the version file)
 11. Move the newly created `.tar.7z` file inside `~/Library/Application Support/Wineskin/Engines`
