@@ -26,7 +26,7 @@ PortingKit, WineBottler, GameOnMac, CrossOver, and eventually others.
 
 [PortingTeam](http://portingteam.com/) and [PaulTheTall](https://www.paulthetall.com/) usually have ready-to-use wrappers for many games and applications.
 
-## How to build a WINE engine from a compiled tarball
+## How to make a WINE engine available to Wineskin Winery from a compiled tarball
 
 ### Usage
 
